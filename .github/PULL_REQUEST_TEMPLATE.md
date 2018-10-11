@@ -2,5 +2,6 @@ Please make sure that you have read and followed the ["add your key to the list"
 
 - [ ] You **HAVE NOT** edited the `active.tsv` or `revoked.tsv` files in the root folder of this repository. These lists are automatically generated to avoid merge conflicts and should not be touched. 
 - [ ] You have **ONLY** made additions and changes to files in your `KEYS/YOUR_CALLSIGN` folder.
+- [ ] Your `active.txt` and/or `revoked.txt` files contain only public keys (one per line) and include no extraneous text or comments.
 
 All requests are reviewed by a human (at least for now). I'll do my best to be prompt with the merge!

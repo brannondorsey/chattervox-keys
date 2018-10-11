@@ -33,7 +33,8 @@ def main():
 def get_keys_from_file(path):
     if os.path.exists(path):
         with open(path, 'r') as f:
-            return  [key.strip() for key in f.read().split('\n') if len(key) > 1 ]
+            return  [ key.strip() for key in f.read().split('\n') if len(key) > 1 ]
+    return []
 
 def write_keys_to_csv(path, keys):
     with open(path, 'w') as f:
