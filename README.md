@@ -2,8 +2,8 @@
 
 A central key server for [chattervox](https://github.com/brannondorsey/chattervox) public keys. Add your key!
 
-- View the [active keys](#)
-- View the [revoked keys](#)
+- View the [active keys](https://raw.githubusercontent.com/brannondorsey/chattervox-keys/master/active.tsv)
+- View the [revoked keys](https://raw.githubusercontent.com/brannondorsey/chattervox-keys/master/revoked.tsv)
 
 ## Add Your Public Key
 
